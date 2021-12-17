@@ -1,0 +1,14 @@
+{
+  "name": "heap-algorithm",
+  "version": "1.0.0",
+  "description": "Two iterative and two recursive implementations of heap's algorithm for finding all the permutations of an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "Fabio Cingottini <fabio.cingottini@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.4.5"
+  }
+}
